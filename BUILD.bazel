@@ -35,7 +35,7 @@ _RAVIOLE_UPSTREAM_MODULES = [
     # Pixel 6 modules
     "drivers/perf/arm_dsu_pmu.ko",
     "drivers/watchdog/s3c2410_wdt.ko",
-    "drivers/misc/eeprom/at24.ko",
+    "drivers/nvmem/at24.ko",
     # UFS
     "drivers/phy/samsung/phy-exynos-ufs.ko",
     "drivers/ufs/host/ufs-exynos.ko",
